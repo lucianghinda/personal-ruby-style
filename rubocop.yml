@@ -369,3 +369,8 @@ Rails/FilePath:
 
 Minitest/MultipleAssertions:
   Max: 6
+
+# Temporary disable this until Ruby 3.3.1 is released
+
+Naming/BlockForwarding:
+  Enabled: false
